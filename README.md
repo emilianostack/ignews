@@ -2,6 +2,6 @@
 
 
 For ENVS:
-https://stripe.com/en-br
-https://fauna.com/
-https://prismic.io/
+- https://stripe.com/en-br
+- https://fauna.com/
+- https://prismic.io/
